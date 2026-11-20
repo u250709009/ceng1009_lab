@@ -25,7 +25,12 @@
 #
 # my_list = [3, 4, 5]
 # print(sum_of_squares(my_list))
-
+#my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#sum=0
+#for i in my_list:
+    #if i % 2 == 0:
+        #sum+=i
+#print(sum)
 # def count_five_letter(word):
 #     count = 0
 #     for word in word:
